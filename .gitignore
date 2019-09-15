@@ -107,3 +107,6 @@ ENV/
 
 #kubernetes stuff
 kubernetes/jobs/
+
+# vim
+*.swp
